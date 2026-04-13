@@ -1,16 +1,52 @@
 body {
-    font-family: Arial;
+    font-family: Arial, sans-serif;
     margin: 0;
-    padding: 0;
+    background-color: #f4f6f9;
+    color: #333;
 }
 
+/* Header */
 header {
-    background-color: #333;
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
     color: white;
     text-align: center;
-    padding: 20px;
+    padding: 40px 20px;
 }
 
-section {
-    padding: 15px;
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+.subtitle {
+    margin-top: 10px;
+    font-size: 1.2rem;
+    opacity: 0.9;
+}
+
+/* Contenido */
+main {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 0 20px;
+}
+
+/* Tarjetas */
+.card {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+/* Destacado */
+.highlight {
+    border-left: 5px solid #2a5298;
+    background-color: #eef3ff;
+}
+
+/* Títulos */
+h2 {
+    margin-top: 0;
 }
