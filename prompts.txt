@@ -1,0 +1,15 @@
+Estoy empezando una página web sencilla para promocionar un evento y ya tengo una idea básica
+, pero quiero una guía de cómo estructurar el HTML con secciones claras (título, descripción y una parte destacada), 
+sin usar nada avanzado.
+
+Mi página ya funciona, pero se ve muy plana visualmente. 
+¿Qué cambios simples en CSS puedo hacer para mejorar la presentación sin usar frameworks?
+
+Mi página ya tiene lo básico, pero siento que le falta contenido para que realmente motive a participar. 
+¿Qué secciones simples podría agregar sin hacerla demasiado larga?
+
+Mi página se ve bien en computador, pero en el celular algunos elementos se ven muy grandes o desordenados. 
+¿Cómo puedo ajustarla con CSS sin cambiar todo el diseño?
+
+Quiero agregar una forma simple de contacto o inscripción en mi página sin usar JavaScript, solo HTML y CSS. 
+¿Cómo podría hacerlo de manera ordenada?
