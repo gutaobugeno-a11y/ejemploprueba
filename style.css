@@ -50,3 +50,17 @@ main {
 h2 {
     margin-top: 0;
 }
+
+/* Listas */
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+/* Texto destacado */
+strong {
+    color: #1e3c72;
+}
