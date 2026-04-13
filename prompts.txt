@@ -13,3 +13,9 @@ Mi página se ve bien en computador, pero en el celular algunos elementos se ven
 
 Quiero agregar una forma simple de contacto o inscripción en mi página sin usar JavaScript, solo HTML y CSS. 
 ¿Cómo podría hacerlo de manera ordenada?
+
+estructura inicial del sitio
+mejora de estilos
+agrega nuevas secciones
+implementa responsive
+mejora final con formulario
